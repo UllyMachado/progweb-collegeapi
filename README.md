@@ -1,2 +1,2 @@
-#Projeto inicial de SpringBoot \n
+# Projeto inicial de SpringBoot
 Ensinando Git e SpringBoot
